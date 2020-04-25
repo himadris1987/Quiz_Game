@@ -89,7 +89,7 @@ body{
 #timeGauge{
     height : 10px;
     border-radius: 10px;
-    background-color: mediumseagreen;
+    background-color: lightblue;
     margin-top : -10px;
     margin-left : 25px;
 }
@@ -112,7 +112,7 @@ body{
 }
 #scoreContainer{
     margin : 20px auto;
-    background-color: white;
+    background-color:lightblue;
     opacity: 0.8;
     height: 300px;
     width : 700px;
@@ -121,11 +121,7 @@ body{
     position: relative;
     display: none;
 }
-#scoreContainer img{
-    position: absolute;
-    top:100px;
-    left:325px;
-}
+
 #scoreContainer p{
     position: absolute;
     display: block;
